@@ -1,6 +1,0 @@
-module LibE {
-  umbrella header "LibE.h"
-
-  export *
-  module * { export * }
-}
